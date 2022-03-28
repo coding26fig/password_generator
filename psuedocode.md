@@ -29,3 +29,6 @@ create a for loop to go thru the (passwordValue array) and it will only go thru 
 create another variable for the final result. This variable will 
 
 
+** May be use an array method to PUSH data from userInput to a blank array to generate password 
+
+** For loops to get info from confirms and go thru the possibles array values to generate password 
