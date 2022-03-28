@@ -8,6 +8,57 @@ var generateBtn = document.querySelector("#generate")
 var lenght=(8)
 var passwordValue =("")
 
+var userInput = parseInt(prompt("How many characters would you like your password to be?", "Must be between 8 and 128 characters"))
+ if ( length < 8  || length > 128){  // should alert try again if criteria is not met
+   alert("Try again");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
