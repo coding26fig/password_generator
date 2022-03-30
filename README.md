@@ -5,7 +5,7 @@ The objective of this project was to modify starter code to create an functionin
 ## Table of Contents
 * [General Info]
 * [Technologies Used]
-* [Usage]
+* [Link]
 * [Project Status]
 * [Room for Improvement
 * [Acknowledgements]
@@ -33,6 +33,10 @@ The objective of this project was to modify starter code to create an functionin
 ## Project Status
 
 Project is: Complete
+
+* [Link]
+* 
+- https://coding26fig.github.io/password_generator/
 
 
 ## Acknowledgements
